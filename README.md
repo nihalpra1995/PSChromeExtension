@@ -2,12 +2,12 @@
 
 PSChromeExtension Module helps to retrieve information about Google Chrome Extension
 
-## Installation
-```bash
+## Installation of Module
+```Powershell
 # Install (in PowerShell >= v5)
 Install-Module -Name PSChromeExtension
 ```
-## Usage
-```bash
+## Using the module
+```PowerShell
 Get-ChromeExtension
 ```
