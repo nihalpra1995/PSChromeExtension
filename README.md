@@ -13,3 +13,7 @@ Run powershell as administrator is mandatory
 ```PowerShell
 Get-ChromeExtension
 ```
+
+##Result
+
+Output would store locally as <computername>.csv file in C: drive.
