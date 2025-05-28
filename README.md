@@ -8,6 +8,8 @@ PSChromeExtension Module helps to retrieve information about Google Chrome Exten
 Install-Module -Name PSChromeExtension
 ```
 ## Using the module
+Run powershell as administrator is mandatory
+
 ```PowerShell
 Get-ChromeExtension
 ```
