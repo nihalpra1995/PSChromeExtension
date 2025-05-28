@@ -14,6 +14,6 @@ Run powershell as administrator is mandatory
 Get-ChromeExtension
 ```
 
-##Result
+## Result
 
 Output would store locally as <computername>.csv file in C: drive.
