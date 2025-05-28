@@ -18,7 +18,7 @@
  .NOTES
     Author:     Nihal Prasad
     Created:    5/27/25
-    Version:    1.0.0
+    Version:    1.1.0
     Requirements:
      - Run as Administrator is mandatory.
 
