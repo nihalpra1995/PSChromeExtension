@@ -16,4 +16,4 @@ Get-ChromeExtension
 
 ## Result
 
-Output would store locally as "computername".csv file in C: drive.
+Output would store locally as **computername.csv** file in C: drive.
